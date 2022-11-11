@@ -1,5 +1,5 @@
 
-# Hi, I'm David Annan Anum! 👋
+# Hi, I'm David Kojo Annan! 👋
 
 
 ## 🚀 About Me
@@ -8,7 +8,7 @@ I'm a full stack developer...
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS...
+NodeJs, Javascript, HTML, CSS...
 
 
 ## Contributing
